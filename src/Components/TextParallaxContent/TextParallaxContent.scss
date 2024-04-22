@@ -1,0 +1,44 @@
+.textParallaxContentSection {
+    position: relative;
+    height: 150vh;
+}
+
+.ParallaxContentExampleSection {
+    background: #fff;
+}
+
+.imgSetion {
+    position: sticky;
+    z-index: 0;
+    overflow: hidden;
+    border-radius: 1rem;
+}
+
+.overlayContent {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+
+    p {
+        text-align: center;
+        max-width: 70%;
+
+        &:first-child {
+
+            font-size: 1.875rem;
+            line-height: 2.25rem;
+        }
+
+        &:nth-child(2) {
+            font-size: 3rem;
+            line-height: 1;
+        }
+    }
+}

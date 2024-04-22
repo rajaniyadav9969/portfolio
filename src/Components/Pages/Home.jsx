@@ -1,0 +1,72 @@
+import React from 'react'
+import { NavLink } from 'react-router-dom'
+
+const Home = () => {
+    return (
+        <div>
+            <p className='fontincrease'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam distinctio ab enim provident? Facilis, corrupti culpa neque officia unde dolores impedit, ratione, quo blanditiis placeat vel odit sint similique? Esse!</p>
+            <NavLink to="about">About</NavLink>
+        </div>
+    )
+}
+
+export default Home
