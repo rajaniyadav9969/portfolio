@@ -6,8 +6,8 @@ function TextWithCursor({ children }) {
 
     const dispatch = useDispatch()
     return (
-        <div onMouseEnter={() => dispatch(toText())} onMouseLeave={() => dispatch(toDefault())} >
-            {children}
+        <div className='textwithcourcer' onMouseEnter={() => dispatch(toText())} onMouseLeave={() => dispatch(toDefault())} >
+                {children}
         </div>
     )
 }

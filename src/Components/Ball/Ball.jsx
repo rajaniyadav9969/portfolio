@@ -13,23 +13,26 @@ const Ball = ({ animate }) => {
     }, []);
 
     const variants = useMemo(() => ({
-        default: { x: position.x, y: position.y },
+        default: { x: position.x+8, y: position.y-6, scale:1 },
         text: {
-            x: position.x, y: position.y,
-            height: 150,
-            width: 150,
+            x: position.x, y: position.y-12,
+            scale: 5,
             backgroundColor: "#fff",
-            mixBlendMode: "difference"
+            mixBlendMode: "difference",
         }
     }), [position])
-
+    const ballStyle = {
+        transition: 'transform 0.1s ease, scale 8s ease',// Adding a CSS transition
+        tranrsform: `translate(${position.x}px, ${position.y}px)` // Dynamic position
+    };
     return (
         <>
             {/* <div style={{ width: "100vw", height: "100vh", backgroundColor: "red" }}></div> */}
             <motion.div
                 className="ball"
+                style={{...ballStyle, ...variants[animate]}}
                 variants={variants}
-                animate={animate}
+                // animate={animate}
             ></motion.div>
         </>
     );

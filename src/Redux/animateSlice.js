@@ -9,7 +9,6 @@ export const animateSlice = createSlice({
     initialState,
     reducers: {
         toText: (state) => {
-
             state.type = "text"
         },
         toDefault: (state) => {

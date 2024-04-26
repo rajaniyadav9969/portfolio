@@ -8,7 +8,7 @@ export const TextParallaxContentExample = () => {
         <div className='ParallaxContentExampleSection'>
             <TextParallaxContent
                 imgUrl={img}
-                subheading="content noun [U] (SUBJECT)"
+                subheading="content noun"
                 heading="the subject or ideas contained in something written, said, created, or represented">
                 <ExampleContent />
             </TextParallaxContent>
